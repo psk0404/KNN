@@ -1,0 +1,41 @@
+Accuracy statistics
+ train_number: 1000
+ k = 3 , 934 / 1000   --> accuracy: 0.934000
+ k = 5 , 931 / 1000   --> accuracy: 0.931000
+ k = 7 , 931 / 1000   --> accuracy: 0.931000
+ train_number: 2000
+ k = 3 , 935 / 1000   --> accuracy: 0.935000
+ k = 5 , 935 / 1000   --> accuracy: 0.935000
+ k = 7 , 936 / 1000   --> accuracy: 0.936000
+ train_number: 3000
+ k = 3 , 946 / 1000   --> accuracy: 0.946000
+ k = 5 , 950 / 1000   --> accuracy: 0.950000
+ k = 7 , 947 / 1000   --> accuracy: 0.947000
+ train_number: 4000
+ k = 3 , 949 / 1000   --> accuracy: 0.949000
+ k = 5 , 955 / 1000   --> accuracy: 0.955000
+ k = 7 , 950 / 1000   --> accuracy: 0.950000
+ train_number: 5000
+ k = 3 , 953 / 1000   --> accuracy: 0.953000
+ k = 5 , 955 / 1000   --> accuracy: 0.955000
+ k = 7 , 953 / 1000   --> accuracy: 0.953000
+ train_number: 6000
+ k = 3 , 959 / 1000   --> accuracy: 0.959000
+ k = 5 , 956 / 1000   --> accuracy: 0.956000
+ k = 7 , 956 / 1000   --> accuracy: 0.956000
+ train_number: 7000
+ k = 3 , 962 / 1000   --> accuracy: 0.962000
+ k = 5 , 961 / 1000   --> accuracy: 0.961000
+ k = 7 , 957 / 1000   --> accuracy: 0.957000
+ train_number: 8000
+ k = 3 , 963 / 1000   --> accuracy: 0.963000
+ k = 5 , 961 / 1000   --> accuracy: 0.961000
+ k = 7 , 959 / 1000   --> accuracy: 0.959000
+ train_number: 9000
+ k = 3 , 962 / 1000   --> accuracy: 0.962000
+ k = 5 , 960 / 1000   --> accuracy: 0.960000
+ k = 7 , 958 / 1000   --> accuracy: 0.958000
+ train_number: 10000
+ k = 3 , 965 / 1000   --> accuracy: 0.965000
+ k = 5 , 965 / 1000   --> accuracy: 0.965000
+ k = 7 , 961 / 1000   --> accuracy: 0.961000
